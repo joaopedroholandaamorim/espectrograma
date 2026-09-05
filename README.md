@@ -36,7 +36,7 @@ gera as figuras e os arquivos de dados em `Fotos/<amostra>/`, e as planilhas
 consolidadas):
 
 ```bash
-python espectrograma.py
+python espectograma.py
 ```
 
 Saídas geradas:
