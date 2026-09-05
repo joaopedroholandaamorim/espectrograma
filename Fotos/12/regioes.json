@@ -1,0 +1,20 @@
+{
+  "amostra": "Li4Mo5O17_12_1800gmm 068",
+  "regioes": [
+    {
+      "regiao": 1,
+      "xmin": 75.0113,
+      "xmax": 351.042
+    },
+    {
+      "regiao": 2,
+      "xmin": 351.042,
+      "xmax": 829.459
+    },
+    {
+      "regiao": 3,
+      "xmin": 829.459,
+      "xmax": 999.757
+    }
+  ]
+}
